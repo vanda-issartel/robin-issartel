@@ -1,0 +1,18 @@
+.banner {
+	background-image: linear-gradient(-225deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url(../../images-formatpaysage/montagneete.jpg);
+	background-size: cover;
+	background-position: center;
+	color: white;
+	padding: 150px 0px; 
+}
+
+.banner h1 {
+	font-size: 60px;
+}	
+
+.banner p {
+	font-size: 20px;
+	font-weight: lighter;
+	opacity: 0.8;
+	margin-bottom: 40px;
+}	
