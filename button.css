@@ -1,0 +1,27 @@
+.btn-green {
+	background-color: #93c56f;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+
+}
+.btn-green:hover {
+	background-color: #d9bf77;
+	color:white;
+}
+.btn-white {
+	background-color: white;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: black;
+	font-weight: bold;
+	text-align: center;
+	text-decoration:none;
+	font-family: 'Roboto', sans-serif;
+
+}
+.btn-white:hover {
+	background-color: #93c56f;
+	color:black;
+}
